@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:textAlignment="center">
+
+    <TextView
+        android:id="@+id/product_id"
+        android:layout_width="130dp"
+        android:layout_height="22dp"
+        android:text="Product Id"
+        android:layout_weight="1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center_vertical"
+        android:textSize="14sp" />
+    <TextView
+        android:id="@+id/product_name"
+        android:layout_width="95dp"
+        android:layout_height="22dp"
+        android:layout_marginLeft="10dp"
+        android:text="Product Name"
+        android:gravity="center_vertical"
+        android:layout_weight="1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="14sp"
+        />
+    <TextView
+        android:id="@+id/product_price"
+        android:layout_width="85dp"
+        android:layout_height="22dp"
+        android:layout_marginLeft="10dp"
+        android:text="Product Price"
+       android:layout_weight="1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="14sp"
+        android:gravity="center_vertical"
+        />z
+</LinearLayout>

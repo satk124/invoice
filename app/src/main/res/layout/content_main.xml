@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.cypher.invoice.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/compny_logo"
+        android:id="@+id/main_compny_image"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/main_add_product_button"
+        android:layout_alignEnd="@+id/main_add_product_button" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Products"
+        android:layout_below="@+id/main_compny_image"
+        android:id="@+id/main_add_product_button"
+        android:onClick="addProductDetails"
+        android:layout_marginTop="30dp"
+        android:background="@android:color/white"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scan Items"
+        android:layout_below="@id/main_add_product_button"
+        android:id="@+id/main_scan_item_button"
+        android:onClick="createInvoice"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/white"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View/Edit Products"
+        android:onClick="viewProducts"
+        android:layout_below="@id/main_scan_item_button"
+        android:id="@+id/main_view_product_button"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/white"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Company Name"
+        android:layout_weight="1.00"
+        android:textSize="22dp"
+        android:paddingTop="@dimen/abc_action_bar_content_inset_material"
+        android:id="@+id/textView"
+        android:layout_marginLeft="41dp"
+        android:layout_marginStart="41dp"
+        android:layout_above="@+id/main_add_product_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        />
+
+
+
+
+
+    <!--<ImageView-->
+        <!--android:layout_width="60dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:src="@mipmap/compny_logo"-->
+        <!--android:id="@+id/imageView2"-->
+        <!--android:layout_above="@+id/textView"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_marginLeft="44dp" />-->
+
+
+</RelativeLayout>
