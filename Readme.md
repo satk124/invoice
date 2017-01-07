@@ -7,7 +7,7 @@ Android App for generating Invoice using Barcode Scanner
 
 3. Update product details
 ![Alt text](/app_img/Screenshot_2017-01-08-02-10-10-493_com.example.cypher.invoice.png?raw=true "Optional Title")
-![Alt text](/app_img/Screenshot_2017-01-08-02-10-21-369_com.example.cypher.invoice.png?raw=true "Optional Title")
-![Alt text](/app_img/Screenshot_2017-01-08-02-33-28-235_com.example.cypher.invoice.png?raw=true "Optional Title")
+![Alt text](/app_img/Screenshot_2017-01-08-02-38-59-596_com.example.cypher.invoice.png?raw=true "Optional Title")
+![Alt text](/app_img/Screenshot_2017-01-08-02-42-02-934_com.example.cypher.invoice.png?raw=true "Optional Title")
 ![Alt text](/app_img/Screenshot_2017-01-08-02-33-51-068_com.example.cypher.invoice.png?raw=true "Optional Title")
 ![Alt text](/app_img/Screenshot_2017-01-08-02-36-11-894_com.google.zxing.client.android.png?raw=true "Optional Title")
