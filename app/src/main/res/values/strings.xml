@@ -10,4 +10,8 @@
     <string name="add_product_enter_product_price">Product Price</string>
 
     <string name="add_barcode_validate_msg">Barcode Invalid</string>
+
+    <string name="title_activity_welcome_screen">welcome_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>

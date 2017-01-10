@@ -8,7 +8,6 @@
         <item name="colorAccent">@color/colorAccent</item>
 
 
-
         <!--<item name="colorControlNormal">#c5c5c5</item>-->
         <item name="colorControlActivated">@color/colorPrimary</item>
         <item name="colorControlHighlight">@color/colorPrimary</item>
@@ -25,12 +24,24 @@
 
 
     <style name="TextAppearence.App.TextInputLayout" parent="@android:style/TextAppearance">
-    <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorPrimary</item>
     </style>
 
     <style name="button_bar">
-       <item name="android:background">@color/colorPrimary</item>
-       <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style>
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
     </style>
 
 </resources>

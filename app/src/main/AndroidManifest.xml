@@ -15,19 +15,31 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity android:name=".AddProduct" />
-        <activity android:name=".ViewProducts"
-            android:configChanges="orientation|screenSize"
-            />
+        <activity
+            android:name=".ViewProducts"
+            android:configChanges="orientation|screenSize" />
         <activity android:name=".ProductRowView" />
-        <activity android:name=".ViewProduct"
-            android:configChanges="orientation|screenSize"/>
-        <activity android:name=".CreateInvoice"
-            android:configChanges="orientation|screenSize"/>
-        <activity android:name=".UpdateProductInformation"></activity>
+        <activity
+            android:name=".ViewProduct"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name=".CreateInvoice"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".UpdateProductInformation" />
+        <activity android:name=".welcome_screen"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
     </application>
 
 </manifest>
