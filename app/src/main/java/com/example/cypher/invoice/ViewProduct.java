@@ -3,6 +3,7 @@ package com.example.cypher.invoice;
 import android.content.DialogInterface;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -16,7 +17,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class ViewProduct extends AppCompatActivity {
-  //  TextView textView;
 
     ListView listView;
 
@@ -24,20 +24,16 @@ public class ViewProduct extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_view_product);
-     //   textView=(TextView) findViewById(R.id.text_view1);
         listView=(ListView) findViewById(R.id.list_view_product);
-
-
     }
 
     public void viewAllProducts(View view) {
 
         ProductDB db = new ProductDB(this);
-       // SQLiteDatabase db = handler.getWritableDatabase();
+//          SQLiteDatabase db = handler.getWritableDatabase();
 //        String s = "Product Id  | \tProduct Name | \tProduct Price\n";
 //        for (Product p : db.getAllProducts()) {
-//            s += p.getProduct_id() + "|   \t" + p.getProduct_name() + "|   \t" + p.getProduct_price() + "\n";
-//
+//            s += p.getProduct_id() + "|   \t" + p.getProduct_name() + "|   \t" + p.getProduct_price() + "\n";//
 //        }
 //        textView.setText(s);
 //        Log.d("all:", db.getAllProducts().toString());
@@ -57,9 +53,6 @@ public class ViewProduct extends AppCompatActivity {
                     TextView clicked_product_name=(TextView)view.findViewById(R.id.product_name);
                     TextView clicked_product_price=(TextView)view.findViewById(R.id.product_price);
 
-
-
-
                     AlertDialog.Builder edit_product_details=new AlertDialog.Builder(ViewProduct.this);
                     View add_product_view= LayoutInflater.from(ViewProduct.this).inflate(R.layout.activity_update_product_information, null);
 
@@ -67,9 +60,17 @@ public class ViewProduct extends AppCompatActivity {
                     final EditText product_name=(EditText) add_product_view.findViewById(R.id.update_product_name);
                     final EditText product_price=(EditText)add_product_view.findViewById(R.id.update_product_price);
 
+                    final TextInputLayout productNameLayout=(TextInputLayout)add_product_view.findViewById(R.id.update_product_product_name_layout);
+                    final TextInputLayout productPriceLayout=(TextInputLayout)add_product_view.findViewById(R.id.update_product_product_price_layout);
+
+                    product_name.addTextChangedListener(new ProductAddWatcher(product_name, productNameLayout));
+                    product_price.addTextChangedListener(new ProductAddWatcher(product_price, productPriceLayout));
+
                     barcode.setText("Barcode: "+clicked_product_id.getText().toString());
                     product_name.setText(clicked_product_name.getText().toString());
                     product_price.setText(clicked_product_price.getText().toString());
+
+
 
                     edit_product_details.setTitle("Edit Product Details")
                             .setView(add_product_view)
@@ -80,10 +81,15 @@ public class ViewProduct extends AppCompatActivity {
 
                                     ProductDB db = new ProductDB(ViewProduct.this);//check this
 
-                                    Product product=new Product(clicked_product_id.getText().toString(),product_name.getText().toString(),Float.parseFloat(product_price.getText().toString()));
-                                    db.updateProduct(product);
+                                    ProductAddWatcher productUpdateWatcher=new ProductAddWatcher(product_name,product_price, productNameLayout, productPriceLayout);
+                                   if(productUpdateWatcher.isUpdateFormValid()){
+                                       Product product=new Product(clicked_product_id.getText().toString(),product_name.getText().toString(),Float.parseFloat(product_price.getText().toString()));
+                                       db.updateProduct(product);
+                                       Toast.makeText(ViewProduct.this,"Product Information Updated",Toast.LENGTH_SHORT).show();
 
-                                    Toast.makeText(ViewProduct.this,product.toString(),Toast.LENGTH_SHORT).show();
+                                   }else{
+                                       Toast.makeText(ViewProduct.this,"Product Not updated",Toast.LENGTH_SHORT).show();
+                                   }
                                 }
                             })
                             .setNegativeButton("Cancel",null)

@@ -30,6 +30,14 @@ public class ProductAddWatcher implements TextWatcher {
         textInputLayout = inputLayout;
     }
 
+    public ProductAddWatcher( View productName, View productPrice, TextInputLayout productNameLayout, TextInputLayout productPriceLayout) {
+        this.productName = productName;
+        this.productPrice = productPrice;
+
+        this.productNameLayout = productNameLayout;
+        this.productPriceLayout = productPriceLayout;
+
+    }
     public ProductAddWatcher(View barcode, View productName, View productPrice, TextInputLayout barcodeLayout, TextInputLayout productNameLayout, TextInputLayout productPriceLayout) {
         this.barcode = barcode;
         this.productName = productName;
@@ -40,6 +48,7 @@ public class ProductAddWatcher implements TextWatcher {
 
     }
 
+
     @Override
     public void beforeTextChanged(CharSequence s, int start, int count, int after) {
 
@@ -47,23 +56,27 @@ public class ProductAddWatcher implements TextWatcher {
 
     @Override
     public void onTextChanged(CharSequence s, int start, int before, int count) {
-//        switch (inputView.getId()) {
-//            case R.id.add_product_barcode_etext:
-//                validateBarcode(inputView, textInputLayout);
-//                break;
-//            case R.id.add_product_adde:
-//                validateProductName(inputView, textInputLayout);
-//                break;
-//            case R.id.add_product_price_etext:
-//                validateProductPrice(inputView, textInputLayout);
-//                break;
-//        }
+        //update product validation
+
     }
 
     @Override
     public void afterTextChanged(Editable s) {
+        switch (inputView.getId()) {
+            case R.id.update_product_name:
+                validateProductName(inputView, textInputLayout);
+                break;
+            case R.id.update_product_price:
+                validateProductPrice(inputView, textInputLayout);
+                break;
+        }
 
-
+    }
+    public boolean isUpdateFormValid(){
+        if ( validateProductName(productName, productNameLayout) && validateProductPrice(productPrice, productPriceLayout)) {
+            return true;
+        }
+        return false;
     }
 
     public boolean isFormValid() {
@@ -74,7 +87,7 @@ public class ProductAddWatcher implements TextWatcher {
         return false;
     }
 
-    private boolean validateBarcode(View inputView, TextInputLayout textInputLayout) {
+    private boolean validateBarcode(View inputView, TextInputLayout textInputLayout) { // TODO: 1/10/2017 check validateBarcode
 
         String barcode = ((EditText) inputView).getText().toString();
 
@@ -89,10 +102,9 @@ public class ProductAddWatcher implements TextWatcher {
         return true;
     }
 
-    private boolean validateProductName(View inputView, TextInputLayout textInputLayout) {
+    private boolean validateProductName(View inputView, TextInputLayout textInputLayout) {// TODO: 1/10/2017  validateProductName
 
         String productName = ((EditText) inputView).getText().toString();
-
         if (productName.isEmpty()) {
             textInputLayout.setError("Product Name Invalid");
             inputView.requestFocus();
@@ -100,16 +112,13 @@ public class ProductAddWatcher implements TextWatcher {
         } else {
             textInputLayout.setErrorEnabled(false);
         }
-
         return true;
-
 
     }
 
-    private boolean validateProductPrice(View inputView, TextInputLayout textInputLayout) {
+    private boolean validateProductPrice(View inputView, TextInputLayout textInputLayout) {// TODO: 1/10/2017   validateProductPrice
 
         String productPrice = ((EditText) inputView).getText().toString();
-
         if (productPrice.isEmpty()) {
             textInputLayout.setError("Product Price Invalid");
             inputView.requestFocus();
@@ -122,12 +131,10 @@ public class ProductAddWatcher implements TextWatcher {
                 textInputLayout.setError("Product Price Invalid");
                 inputView.requestFocus();
                 return false;
-
             }
         } else {
             textInputLayout.setErrorEnabled(false);
         }
-
         return true;
 
     }

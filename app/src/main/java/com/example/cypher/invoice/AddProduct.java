@@ -35,9 +35,9 @@ public class AddProduct extends AppCompatActivity {
         productPriceLayout=(TextInputLayout)findViewById(R.id.add_product_product_price_layout);
 
 
-        barcode.addTextChangedListener(new ProductAddWatcher(barcode, barcodeLayout));
-        productName.addTextChangedListener(new ProductAddWatcher(productName, productNameLayout));
-        productPrice.addTextChangedListener(new ProductAddWatcher(productPrice, productPriceLayout));
+//        barcode.addTextChangedListener(new ProductAddWatcher(barcode, barcodeLayout));
+//        productName.addTextChangedListener(new ProductAddWatcher(productName, productNameLayout));
+//        productPrice.addTextChangedListener(new ProductAddWatcher(productPrice, productPriceLayout));
 
         saveProductButton.setOnClickListener(new View.OnClickListener() {
             @Override

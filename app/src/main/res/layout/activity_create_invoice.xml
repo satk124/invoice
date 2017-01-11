@@ -84,22 +84,14 @@
             android:layout_height="match_parent"
             android:orientation="horizontal"
             android:paddingTop="20dp">
-
-
-            <TextView
-                android:id="@+id/total_cost"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_toLeftOf="@+id/text2"
-                android:text="Total: " />
-
             <TextView
                 android:id="@+id/text2"
-                android:layout_width="85dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentRight="true"
                 android:paddingRight="20dp"
-                android:text="0.0 Rs." />
+                android:maxLines="1"
+                android:text="Total: 0.0 Rs." />
         </RelativeLayout>
 
 
@@ -113,30 +105,39 @@
         android:paddingBottom="10dp">
 
         <Button
+            android:id="@+id/cancel_invoice"
             style="@style/button_bar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Mail" />
+            android:text="&#x2716;cancel"
+            android:textAllCaps="false"/>
 
         <Button
+            android:id="@+id/mail_invoice"
             style="@style/button_bar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Save" />
+            android:text="\@mail"
+            android:textAllCaps="false"/>
         <Button
+            android:id="@+id/save_to_pdf"
             style="@style/button_bar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="PDF" />
+            android:text="↓pdf"
+            android:textAllCaps="false"
+            />
         <Button
+            android:id="@+id/save_invoice"
             style="@style/button_bar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Cancel" />
+            android:text="&#x2714;save"
+            android:textAllCaps="false"/>
 
         <ImageButton
             android:id="@+id/button"

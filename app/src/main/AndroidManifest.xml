@@ -19,9 +19,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".AddProduct" />
-        <activity
-            android:name=".ViewProducts"
-            android:configChanges="orientation|screenSize" />
         <activity android:name=".ProductRowView" />
         <activity
             android:name=".ViewProduct"

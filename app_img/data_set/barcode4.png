@@ -1,0 +1,1047 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--[if IE]><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.gs1.org/sites/all/themes/custom/gsone_phoenix_toolkit/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="http://www.gs1.org/sites/all/themes/custom/gsone_phoenix_toolkit/images/GS1_Corporate_logo.png" />
+<link rel="canonical" href="http://www.gs1.org/10-steps-to-barcode-your-product" />
+<link rel="shortlink" href="http://www.gs1.org/10-steps-to-barcode-your-product/english" />
+<meta property="og:image" content="http://www.gs1.org/sites/all/themes/custom/gsone_phoenix_toolkit/images/GS1_Corporate_logo.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://www.gs1.org/10-steps-to-barcode-your-product" />
+<meta name="twitter:title" content="10 steps to barcode your product" />
+<meta name="dcterms.title" content="10 steps to barcode your product" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="http://www.gs1.org/10-steps-to-barcode-your-product" />
+  <title>10 steps to barcode your product | GS1</title>
+  <link type="text/css" rel="stylesheet" href="//cloud.typography.com/6247692/752844/css/fonts.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Code+Pro:500" media="all" />
+<link type="text/css" rel="stylesheet" href="//www.gs1.org/sites/default/files/advagg_css/css__wFkvHXaVtXWVB3AI8ngnm0BzH8r92OjeZUuaoL7-NzA__B5t34pF6YxNQ7aOzjh86PQlrRQuTZRcLm_c2suEUFSY__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//www.gs1.org/sites/default/files/advagg_css/css__pifNZksaR8skbIuypSstZHq6xNxaUAanGMTJXe-WGiA__qhSGsmcj0klYBPw4-pjSOqeR9Aeo04UnHgm-Eb8icr8__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//www.gs1.org/sites/default/files/advagg_css/css__qE2S0CWs69wrqJ8fEiB24Hkk4IRJ3PLvgzdlUmFAD8I__BRTY7Lov-f-QLTFPGrZPg027nM6S1rHxqLJQKMdCtSc__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//www.gs1.org/sites/default/files/advagg_css/css__L_zxi3o9AXPBSJ2u_SFpTeeDYoVY9GXdBZX3-7pGlUU__hfFNNsxqr6HPjaIeboD2FVYCmGcEBKBLbp2Kh4jKsGg__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.css" media="all" />
+<style>.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+#sliding-popup.sliding-popup-bottom{background:#444444;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+</style>
+
+  
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P7CVNV');</script>
+  <!-- End Google Tag Manager -->
+
+  
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-10-steps-to-barcode-your-product page-10-steps-to-barcode-your-product-english i18n-en toolkit" >
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7CVNV"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <script>
+    function sendevent() {
+      ga( "send", "event", "arg1", "arg2", "arg3" );
+    }
+  </script>
+
+  <div id="skip-link"></div>
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <header>
+  <div class="header-top">
+    <div class="container">
+            <div class="logo">
+        <div class="logo1">
+          <a href="/" title="Home">
+            <img width="72" height="59" border="0" alt="GS1 logo" src="http://www.gs1.org/sites/default/files/logo_resized.jpg" alt="Home" />
+          </a>
+                      <p class="large hidden-xs hidden-sm">
+              <strong><a class="" href="/" title="Home">Welcome to GS1</a></strong>
+                              <br>The Global Language of Business                          </p>
+                  </div>
+      </div>
+            <div class="secondary-nav">
+                    
+<ul class="list-inline">
+      <li><a href="/contact" class="">Contact us</a></li>
+  </ul>
+<form class="form-search-box" action="/10-steps-to-barcode-your-product" method="post" id="search-block-form" accept-charset="UTF-8"><div class="input-wrapper glyphicon-search"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="20" maxlength="128" /></div><div><button type="submit" class="btn-search"><span class="icon-arrow_right"></span></button></div><input type="hidden" name="form_build_id" value="form-XkpAV41Pt6yF0Vk0UilHV0FDqrwXffpDtbpkmQ_-LY8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+<button class="element-invisible btn btn-primary form-submit" id="edit-submit--2" name="op" value="Search" type="submit">Search</button>
+</form>                <a class="btn-primary login-button" target="_blank" role="button" href="http://mozone.gs1.org/home/"><span class="icon-user"></span>MO Zone login</a>
+      </div>
+    </div>
+  </div>
+  <div class="navigation">
+    <div class="container">
+      <nav class="navbar yamm navbar-default" role="navigation">
+        <div class="navbar-header">
+          <div class="logo1 visible-xs">
+              <a href="/" title="Home">
+                <img width="72" height="59" border="0" alt="GS1 logo" src="http://www.gs1.org/sites/default/files/logo_resized.jpg" alt="Home" />
+              </a>
+          </div>
+          <button type="button" data-toggle="collapse" data-target="#navbar-collapse" class="navbar-toggle collapsed"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+          <div class="secondary-nav">
+            <a class="btn-primary login-button" target="_blank" role="button" href="http://mozone.gs1.org/home/"><span class="icon-user"></span> Login</a>
+            <a class="search" href="/search"><span class="icon-search"></span></a>
+          </div>
+        </div>
+        <div id="navbar-collapse" class="navbar-collapse collapse">
+                        
+<ul class="nav navbar-nav">
+      <li class="yamm-fw ">
+      <a href="/about" class="">About</a>    </li>
+      <li class="yamm-fw active">
+      <a href="/standards" class="">Standards</a>    </li>
+      <li class="yamm-fw ">
+      <a href="/industries" class="">Industries</a>    </li>
+      <li class="yamm-fw ">
+      <a href="/news-events" class="">News &amp; Events</a>    </li>
+  </ul>                  </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="gsone-phoenix-banner-region">
+  </div>
+
+<div class="site-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+                                <section id="block-gsone-phoenix-breadcrumb-top-breadcrumb" class="block block-gsone-phoenix-breadcrumb clearfix">
+
+      
+  <nav class="nav-tags">
+  <ol class="breadcrumb">
+          <li><a href="/">Home</a></li>          <li><a href="/standards">Standards</a></li>          <li><a href="/barcodes">Barcodes</a></li>          <li class="active">10 steps to barcode your product</li>      </ol>
+</nav>
+
+</section> <!-- /.block -->
+                  
+        
+                  <h1 class="page-header">10 steps to barcode your product</h1>
+        
+                
+                                
+        
+              </div>
+    </div>
+  </div>
+
+  
+  
+  
+        <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <!-- Begin /var/www/html/phoenix.gs1.org/releases/20160629064520/docroot/sites/all/themes/custom/gsone_phoenix_toolkit/panels/toolkit_stacked_1_col/toolkit-stacked-1-col.tpl.php -->
+
+<div class="container">
+  <div class="content-module-container">
+    <div class="panel-display clearfix" >
+      <div class="row col-md-12">
+        <div class="panel-pane pane-smartqueue-select"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/10-steps-to-barcode-your-product" method="post" id="smartqueue-select-subqueue-form" accept-charset="UTF-8"><div><div class="form-type-select form-item-subqueue form-item form-group">
+ <select class="form-control form-select" id="edit-subqueue" name="subqueue"><option value="">- select -</option><option value="english" selected="selected">English</option><option value="português">Português</option><option value="azərbaycan">Azərbaycan</option></select>
+</div>
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Go" type="submit">Go</button>
+<input type="hidden" name="form_build_id" value="form-uFc2yQV04_71JHwldqJ2Fa62Wo46aW4SmNiOQNsMnmw" />
+<input type="hidden" name="form_id" value="smartqueue_select_subqueue_form" />
+</div></form>  </div>
+
+  
+  </div>
+      </div>
+
+      <div class="row col-md-12">
+        <div class="panel-pane pane-views-panes pane-content-carrousel-cc-pane"  >
+  
+        <h2 class="pane-title">10 steps to barcode your product</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-content-carrousel view-id-content_carrousel view-display-id-cc_pane view-dom-id-0b2784ec465d5cb9042248532aa041ca">
+  <div class="stickyalias"></div>
+  <div class="content-module-container slider-container">
+    <a href="#" class="back-home"><i class="fa fa-home"></i></a>
+    <div class="content-module-bar bg-orange"></div>
+      <div class="content-module content-module-padding">
+                                
+        
+        
+                  <div class="slider">
+              
+<div class="panelizer-view-mode node node-full node-cc-item node-1266">
+        <H2 >
+              Introduction          </H2>
+      <div class="panel-flexible panels-flexible-1664 clearfix" >
+<div class="panel-flexible-inside panels-flexible-1664-inside">
+<div class="panels-flexible-region panels-flexible-region-1664-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1664-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img style="float: right;" class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/milk-bottles.jpg" alt="" /></p>
+
+<p>The most important implementation resource for barcode identification are the over 100 GS1 Member Organisations in countries all around the world. This guide takes new barcode users through the basic steps they must take to begin using barcodes.&nbsp;</p>
+
+<p>Ten Steps to Barcode Implementation</p>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-cc-button"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-cc-button"><i class="fa fa-home"></i></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-content-carrousel-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="content-carrousel-menu-placeholder" data-slides="1,2,3,4,5,6,7,8,9,10"></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1267">
+        <H2 >
+              Step 1: Get a GS1 Company Prefix          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img style="float: right;" class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/gs1-code-1.jpg" alt="" /></p>
+
+<p>Before a company can begin using barcodes, they must first assign the numbers that go inside the barcode, called <strong>GS1 Identification Keys</strong>. The first step in assigning a GS1 Identification Key is to obtain a <strong>GS1 Company Prefix</strong> from a GS1 Member Organisation. The GS1 Company Prefix provides a way for companies to create identification keys for trade items, logistic units, locations, parties, assets, coupons, etc. which are unique all around the world. GS1 Company Prefixes are used by 1,3 million companies worldwide as the basis for creating unique numbers to identify everything in the supply chain.</p>
+
+<div class="clear">&nbsp;</div>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p>For information on the way to obtain a GS1 Company Prefix see &#39;<a href="http://www.gs1.org/need-gs1-barcode" target="_blank">Need a GS1 barcode</a>&#39;</p>
+</div>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1268">
+        <H2 >
+              Step 2: Assign numbers          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img style="float: right;" class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/step-3.jpg" alt="" /></p>
+
+<p>After receiving a <strong>GS1 Company Prefix</strong>, a company is ready to begin assigning identification numbers to their trade items (products or services), themselves (as a legal entity), locations, logistic units, individual company assets, returnable assets (pallets, kegs, tubs), and/or service relationships.<br>
+	The process is simple. Your local GS1 Member Organisation can provide you with specific information about how many numbers you can assign based on the length of your GS1 Company Prefix.</p>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p>See the <a href="http://www.gs1.org/barcodes/technical/id_keys" target="_blank">GS1 Identification Keys page</a> for short introductions on the role and characteristics for each of the GS1 keys.</p>
+</div>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1270">
+        <H2 >
+              Step 3: Select a barcode printing process          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="col-md-9">
+<img class="media-element file-default" style="float: left" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/barcode-1.jpg" alt="" />
+<p>To begin, you should decide what you are barcoding and if the barcode will carry <strong>static</strong> or <strong>dynamic</strong> information inside it.</p>
+
+<p>If the information is static (always the same), the barcode can be printed using traditional printing presses directly on the package (e.g., paper milk carton) or on a label that is applied to the package (e.g., label on a gallon milk jug.)</p>
+<p>If the information is dynamic then either digital or a combination of digital and traditional printing will be required. </p>
+<p>For example: </p>
+<ul class="content-carrousel-menu">
+<li>If the product requires multi-colour graphics and a barcode with dynamic data, the graphics could be pre-printed using traditional printing presses and leave a blank portion of the label for digital printing inline during production and packaging.</li>
+<li>If the product only requires text and a barcode with dynamic data, a label could be printed inline and applied to the package (automatically if high volume or by hand if low volume). It could also be printed directly on the package itself without using a label. </li>
+<li>Also a barcode with static data could be printed directly on the package using a digital printing method, for example when the same packaging is used for different products.</li>
+</ul>
+</div>
+
+<div class="col-md-3">
+	<div class="panel-pane pane-block pane-bean-tools-standards-block pane-bean">
+		<div class="pane-content">
+			<div class="content-module-container">
+				<div class="content-module-bar bg-blue">&nbsp;</div>
+
+				<div class="content-module content-module-padding">
+					<h4>Printing Methods</h4>
+
+					<div class="field field-name-field-bean-body field-type-text-long field-label-hidden">
+						<p><strong>Traditional</strong>: flexography and offset</p>
+
+						<p><strong>Digital</strong>: thermal and laser</p>
+
+						<p><strong>Direct Marking</strong>: e.g. etching, engraving</p>
+
+						<p><a href="http://www.gs1.org/docs/barcodes/GS1_Barcodes_Fact_Sheet-Scanner_enviroments_and_printing_methods.pdf" target="_blank">See scanner environments &amp; printing methods</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p>Your local GS1 Member Organisation is there to assist you in making the right selection, and many Member Organisations can also help you find a printing company in your local area.</p>
+</div>
+<a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1271">
+        <H2 >
+              Step 4: Select a &quot;primary&quot; scanning environment          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="col-md-9">
+	<p>The specifications for barcode type, size, placement, and quality all depend on where the barcode will be scanned. By knowing where your barcode will be scanned you can establish the right specifications for its production.</p>
+
+	<p>Barcodes to be scanned at the <strong>retail point-of-sale</strong> will need to support omni-directional scanning.</p>
+
+	<p>If the barcode will be scanned at point-of-sale as well as in the <strong>warehouse</strong>, you will need to use a symbol that accommodates point-of-sale scanning, but printed in a larger size to accommodate scanning in the distribution process.</p>
+
+	<p>Barcodes on <strong>healthcare items</strong> to be scanned in hospitals and pharmacies do not require omni-directional scanning, unless the items are also scanned at retail Point-of-Sale.</p>
+
+	<p>&nbsp;</p>
+</div>
+
+<div class="col-md-3">
+	<div class="panel-pane pane-block pane-bean-tools-standards-block pane-bean">
+		<div class="pane-content">
+			<div class="content-module-container">
+				<div class="content-module-bar bg-blue">&nbsp;</div>
+
+				<div class="content-module content-module-padding">
+					<h4>Scanning Environments</h4>
+
+					<div class="field field-name-field-bean-body field-type-text-long field-label-hidden">
+						<ul>
+							<li>Point-of-sale</li>
+							<li>General Distribution and Logistics</li>
+							<li>Healthcare items</li>
+							<li>Direct part marking</li>
+						</ul>
+					</div>
+<p><a href="http://www.gs1.org/docs/barcodes/GS1_Barcodes_Fact_Sheet-Scanner_enviroments_and_printing_methods.pdf" target="_blank">See scanner environments &amp; printing methods</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="col-md-9"><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></div>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1272">
+        <H2 >
+              Step 5: Select a barcode          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img style="float: right;" class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/overview.jpg" alt="" /></p>
+
+<p>Selecting the right barcode is critical to the success of your barcode implementation plan, but here are some high level tips:</p>
+
+<ul class="content-carrousel-menu">
+	<li>If you need to barcode a trade item that will be scanned at the retail Point-of-Sale (POS), first symbol of choice is the <strong>EAN/UPC symbol</strong>. This symbol is guaranteed to be scanned by POS systems all over the world. In some cases <strong>GS1 DataBar</strong> symbol may be applied.</li>
+	<li>If you are printing a barcode with variable information like serial numbers, expiry dates, or measures, then you will use <strong>GS1-128, GS1 DataBar, or GS1 2D symbols</strong>.</li>
+	<li>If you want to encode a URL into a barcode to make extended packaging information available to the end consumer, then you should use a <strong>GS1 2D symbol</strong>.</li>
+	<li>If you need to barcode an outer case to be scanned in a logistics environment, and you want to print directly on corrugated carton, <strong>ITF-14</strong> may be the choice for you.</li>
+</ul>
+
+<p><i>There are other factors to consider so contact your local GS1 Member Organisation to see what implementation products and services they offer.</i></p>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p>See the <a href="http://www.gs1.org/barcodes" target="_blank">GS1 barcodes page</a> for an overview of the key characteristics for each of the GS1 barcodes.</p>
+</div>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1273">
+        <H2 >
+              Step 6: Pick a barcode size          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>After the correct barcode symbol is specified together with the information to encode in it, the design stage begins. The size of the symbol within the design will depend on the symbol specified, where the symbol will be used, and how the symbol will be printed.</p>
+
+<h4>Symbol sizes</h4>
+
+<p>The <strong>X-dimension</strong> is the specified width of the narrowest element of a barcode. X-dimensions are used together with the <strong>symbol heights</strong> to specify the permissible symbol sizes.</p>
+
+<p>For each scanning environment the relevant symbols are listed with their target X-dimension and corresponding target height. Besides the target sizes also the allowed minimum and maximum sizes are specified.</p>
+
+<h4>EAN/UPC symbols</h4>
+
+<div class="row">
+	<div class="col-md-8">
+		<p>EAN/UPC Symbols are designed for scanning by retail <strong>omni-directional scanners</strong>. This means that EAN/UPC Symbols have two segments which are taller than they are wide. There is a fixed relationship between symbol height and width. When one dimension is modified, the other dimension should be altered by a proportional amount.</p>
+
+		<h4>Consideration of the printing process</h4>
+
+		<p>The final major consideration for symbol size is the capability of the selected printing process. The minimum size (magnification) and correct Bar Width Reduction (BWR) for a symbol varies by printing process and even from press to press. Printing companies should establish a minimum symbol size (magnification) and BWR to achieve acceptable and repeatable quality results.</p>
+	</div>
+
+	<div class="col-md-4">
+		<div class="panel-pane pane-block pane-bean-tools-standards-block pane-bean">
+			<div class="pane-content">
+				<div class="content-module-container">
+					<div class="content-module-bar bg-blue">&nbsp;</div>
+
+					<div class="content-module content-module-padding">
+						<h4>Omni-directional</h4>
+
+						<p>EAN/UPC symbols are suitable for omni-directional scanning since they can be read from all directions by a fixed scanner.</p>
+						<img class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/directions.jpg" alt="" /></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p>See <a href="http://www.gs1.org/genspecs" target="_blank">GS1 General Specifications</a>, &ldquo;GS1 System Symbol Specification Tables&rdquo; in section 5 for information on the allowed sizes of all GS1 Symbols based on the application where they are used. Symbol Specification Table 1 provides the details for the retail point-of-sale scanning environment.</p>
+</div>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1274">
+        <H2 >
+              Step 7: Format the barcode text          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img style="float: right;" class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/step-7.jpg" alt="" /></p>
+
+<div class="clear mobile-split">&nbsp;</div>
+
+<p>The text beneath a barcode, called <strong>Human Readable Interpretation (HRI)</strong>, is important because if the barcode is damaged or of poor quality to begin with, then the text is used as a back-up.</p>
+
+<p>Here are some of the most frequently asked questions on HRI:</p>
+
+<p><i>Does the Human Readable Interpretation need to be a certain size?</i></p>
+
+<p>The human-readable text must be clearly legible and in a size proportional to the symbol size.</p>
+
+<p><i>Is the Human Readable Interpretation supposed to be above or below the symbol?</i></p>
+
+<p>HRI should be placed below the barcode and grouped together wherever physically possible while maintaining the HRI legibility and minimum barcode height.</p>
+
+<p><i>I see parentheses around the Application Identifiers (AI) under some barcode symbols. Are they supposed to be there and are they encoded in the bars and spaces of the symbol?</i></p>
+
+<p>All AIs must be enclosed in parentheses in the Human Readable Interpretation, but the parentheses are not encoded in the symbol.</p>
+
+<p><i>How many digits do I print beneath the EAN/UPC Symbol in the Human Readable text?</i></p>
+
+<ul class="slide-content">
+	<li>You must print 12 digits below the UPC-A Symbol.</li>
+	<li>You must print 13 digits below the EAN-13 Symbol.</li>
+	<li>You must print eight digits below UPC-E and EAN-8 Symbols.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p>See the <a href="http://www.gs1.org/docs/barcodes/HRI_Implementation_Guide.pdf" target="_blank">GS1 Human Readable Interpretation (HRI) Implementation Guide</a> for more information.</p>
+</div>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1275">
+        <H2 >
+              Step 8: Pick a barcode colour          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img style="float: right;" class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/barcode-colors.jpg" alt="" /></p>
+
+<p>The optimum colour combination for a barcode symbol is black bars with a white background. If you want to use other colours, the following may help you in choosing satisfactory ones:</p>
+
+<ul class="slide-content">
+	<li>GS1 barcodes require <strong>dark colours for bars</strong> (e.g., black, dark blue, dark brown, or dark green).</li>
+	<li>The bars should always consist of a single line colour and should never be printed by multiple imaging tools (e.g., plate, screen, cylinder).</li>
+	<li>GS1 barcodes require <strong>light backgrounds</strong> for the Quiet Zones (area free of printing around the barcode) and spaces (e.g., white).</li>
+	<li>In addition to light backgrounds, &quot;reddish&quot; colours may also be used. If you have ever been in a darkroom with red lighting and tried to read red copy, you know it can virtually disappear. This is also true of similar colours such as orange, pink, peach, and light yellows. Given the fact that most barcode scanners use a red light source, you can quickly see why these colours may be suitable for backgrounds, but should be avoided for bars.</li>
+	<li>In many cases the symbol background is not printed and the colour of the packaging substrate is used as barcode background. However, if the symbol background is printed beneath the bars, the background should be printed as solid line colours.</li>
+	<li>If you use multiple layers of ink to increase the background opacity, each layer should be printed as a solid colour.</li>
+	<li>If you use a fine screen to deliver more ink to the substrate, be sure there are no voids in the print caused by the screen not adequately filling in.</li>
+</ul>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+        <p>As explained, black bars and white spaces are the optimal combination, but other colour combinations can be used. Consult an experienced printing company recommended by your GS1 Member Organisation for additional guidance.</p>
+</div>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1276">
+        <H2 >
+              Step 9: Pick the barcode placement          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img style="float: right;" class="media-element file-default" typeof="foaf:Image" src="http://www.gs1.org/sites/default/files/milk-barcode.jpg" alt="" /></p>
+
+<p>When discussing symbol location we are referring to the symbol placement on the design.</p>
+
+<p>When assigning symbol placement first the <strong>packaging process</strong> should be considered. You should consult the packaging engineer to make sure the symbol will not be obscured or damaged (e.g., over a carton edge, beneath a carton fold, beneath a package flap, or covered by another packaging layer).</p>
+
+<p>After determining the proper placement, the printing company should be consulted. This is because many <strong>printing processes</strong> require barcodes to be printed in a specific orientation to the feed direction of the web or sheet.</p>
+
+<p>When using flexographic printing, the bars should run parallel to the press direction. If the bars are required to run perpendicular to the press direction check to ensure the symbol is not distorted.</p>
+
+<p>When using either silk screen or rotogravure printing processes, the symbol should be aligned parallel to the cell structure on the screen or gravure plate cylinder to provide the smoothest bar edge possible.</p>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p>To determine the proper location for GS1 barcodes refer to the placement rules in section 6 of the <a href="http://www.gs1.org/genspecs" target="_blank">GS1 General Specifications</a>.</p>
+</div>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1277">
+        <H2 >
+              Step 10: Build a barcode quality plan          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>ISO/IEC 15416 Barcode Print Quality Test Specifications for Linear Symbols describes a method for assessing the quality of barcode symbols after they are printed. An ISO-based verifier looks at the symbol in the way a scanner does, but goes further by grading the symbol&#39;s quality.</p>
+
+<p>GS1 utilises the ISO/IEC method, but specifies the minimum grade necessary for every GS1 barcode based on which symbol is used, where it is used, or what identification number it is carrying. In addition to the minimum grade, GS1 also specifies the verifier aperture width and wavelength.</p>
+
+<p>Setting up different minimum specifications is similar to a university using a standardized test to determine whether applicants qualify for admission. Several universities may utilize the same standardized test, but each sets the minimum score necessary for its applicants to be admitted.</p>
+
+<div class="alert alert-info fade in">
+	<h4><i class="fa fa-info-circle"></i> More information</h4>
+
+	<p><a href="http://www.gs1.org/genspecs" target="_blank">GS1 General Specifications</a> Section 5 provides a quick reference list of symbol quality specifications depending on the symbol type, the application, and the GS1 identification key the symbol is carrying.</p>
+</div>
+
+<p>GS1 Members may choose to perform their own quality control of barcode production. Today, many GS1 Member Organisations offer barcode quality verification services.</p>
+
+<p><a class="download-this" href="http://www.gs1.org/sites/default/files/ten_steps_to_barcode_implementation.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 10 steps printable version</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>  
+<div class="panelizer-view-mode node node-full node-cc-item node-1278">
+        <H2 >
+              Links          </H2>
+      <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ul class="slide-content">
+<li><a href="http://www.gs1.org/genspecs" target="_blank">GS1 General Specifications</a>: The GS1 Standard that describes how GS1 barcodes and
+identification keys should be used.</li>
+<li><a href="http://www.gs1.org/1/gtinrules" target="_blank">GS1 GTIN Allocation Rules</a>: This standard provides specific rules on GTIN allocation that
+apply to prevalent industry practices for the Fast Moving Consumer Goods (FMCG) industry.</li>
+<li><a href="http://www.gs1.org/id-keys" target="_blank">GS1 Identification Keys</a>: One page summaries for each of the GS1 Identification Keys.</li>
+<li><a href="http://www.gs1.org/barcodes" target="_blank">GS1 Barcodes</a>: One pages summaries of all GS1 barcodes, including an overview of
+printing methods and scanning environments.</li>
+<li><a href="http://www.gs1.org/industries" target="_blank">GS1 Industries</a>: Information on the way GS1 standards are applied in various sectors.</li>
+</ul>
+<p>&nbsp;</p>
+									
+									<h5>Contact</h5>
+									<p>Find your local member organisation: <a href="http://www.gs1.org/contact" target="_blank">http://www.gs1.org/contact</a> </p></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-cc-button"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-cc-button"><i class="fa fa-external-link"></i></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>          </div>
+        
+        
+        
+        
+        
+              </div>
+    </div>
+  </div>
+</div>  </div>
+
+  
+  </div>
+      </div>
+
+      <div class="row col-md-12">
+              </div>
+    </div>
+  </div>
+</div>
+
+<!-- End /var/www/html/phoenix.gs1.org/releases/20160629064520/docroot/sites/all/themes/custom/gsone_phoenix_toolkit/panels/toolkit_stacked_1_col/toolkit-stacked-1-col.tpl.php -->
+
+</section> <!-- /.block -->
+  
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+                <section id="block-menu-menu-footer-menu" class="block block-menu col-md-10 clearfix">
+
+      
+  <div class="row">
+      <div class="col-xs-12 col-sm-4 footer-column matchheight">
+      <h4><a href="/standards" class="blue">Standards</a></h4>
+      <ul>
+                  <li><a href="http://www.gs1.org/need-gs1-barcode" class="">Need a barcode</a></li>
+                  <li><a href="http://www.gs1.org/standards" class="">All GS1 standards</a></li>
+                  <li><a href="http://www.gs1.org/genspecs" class="">General Specifications</a></li>
+                  <li><a href="http://www.gs1.org/standards-development" class="">Standards Development</a></li>
+                  <li><a href="/public-policy" class="">GS1 and Public Policy</a></li>
+              </ul>
+    </div>
+      <div class="col-xs-12 col-sm-4 footer-column matchheight">
+      <h4><a href="http://www.gs1.org/industries" class="blue">Industries</a></h4>
+      <ul>
+                  <li><a href="http://www.gs1.org/retail" class="">Retail</a></li>
+                  <li><a href="http://www.gs1.org/healthcare" class="">Healthcare</a></li>
+                  <li><a href="http://www.gs1.org/transport-and-logistics" class="">Transport &amp; Logistics</a></li>
+                  <li><a href="http://www.gs1.org/foodservice" class="">Foodservice</a></li>
+                  <li><a href="http://www.gs1.org/technical-industries" class="">Technical Industries</a></li>
+                  <li><a href="http://www.gs1.org/humanitarian-logistics" class="">Humanitarian logistics</a></li>
+              </ul>
+    </div>
+      <div class="col-xs-12 col-sm-4 footer-column matchheight">
+      <h4><a href="http://www.gs1.org/news-events" class="blue">News &amp; Events</a></h4>
+      <ul>
+                  <li><a href="http://www.gs1.org/news-archive" class="">News</a></li>
+                  <li><a href="http://www.gs1.org/events-calendar" class="">Events</a></li>
+              </ul>
+    </div>
+      <div class="col-xs-12 col-sm-4 footer-column matchheight">
+      <h4><a href="http://www.gs1.org/about" class="blue">About us</a></h4>
+      <ul>
+                  <li><a href="http://www.gs1.org/what-we-do" class="">What we do</a></li>
+                  <li><a href="http://www.gs1.org/how-we-got-here" class="">Our story</a></li>
+                  <li><a href="http://www.gs1.org/careers" class="">Careers</a></li>
+              </ul>
+    </div>
+      <div class="col-xs-12 col-sm-4 footer-column matchheight">
+      <h4><a href="/" class="blue">Tools</a></h4>
+      <ul>
+                  <li><a href="http://www.gs1.org/check-digit-calculator" class="">Check digit calculator</a></li>
+                  <li><a href="http://gepir.gs1.org/" class="">Who owns this barcode?</a></li>
+                  <li><a href="/training" class="">Training</a></li>
+                  <li><a href="http://ocp.gs1.org/sites/faq" class="">FAQs</a></li>
+                  <li><a href="http://www.gs1.org/gs1-innovation-network" class="">Innovation Network</a></li>
+              </ul>
+    </div>
+  </div>
+</section> <!-- /.block -->
+<section id="block-menu-menu-social-media-menu" class="block block-menu col-md-2 clearfix">
+
+      
+  <div class="clearfix visible-sm"></div>
+<div class="content-module-container">
+      <!-- <div class="col-xs-2 col-sm-6 col-md-6"> -->
+      <a href="http://www.twitter.com/gs1" class="icon icon-twitter"></a>    <!-- </div> -->
+      <!-- <div class="col-xs-2 col-sm-6 col-md-6"> -->
+      <a href="https://www.youtube.com/user/gs1global" class="icon icon-youtube"></a>    <!-- </div> -->
+  </div>
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-footer-service-menu" class="block block-menu col-md-12 clearfix">
+
+      
+  <div class="row">
+	<div id="footer-service-menu" class="col-md-12 footer-service-menu">
+	  <ul class="list-inline">
+	    	      <li><a href="http://www.gs1.org/terms-of-use" title="en">Terms of use</a></li>
+	    	      <li><a href="http://www.gs1.org/privacy-policy" title="en">Privacy policy</a></li>
+	    	      <li><a href="https://gs1.wufoo.com/forms/website-feedback/def/Field1=https://www.google.com//&amp;Field106=http://www.gs1.org/10-steps-to-barcode-your-product" title="en">Website feedback</a></li>
+	    	      <li><a href="http://www.gs1.org/contact" title="en">Contact us</a></li>
+	    	  </ul>
+	</div>
+</div>
+</section> <!-- /.block -->
+          </div>
+  </div>
+</footer>
+  
+<!--[if lte IE 9]>
+<script src="//www.gs1.org/sites/default/files/advagg_js/js__LO6gsC44uRVvUU3RDmeM3MHpRTEMOtlVbU2nMUWVFvs__MjXsja1TfudCvWi3hMh3mJdwieiSHU4gxG6YzR1Hlts__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.js#ie9-" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_1, 1);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 1);
+  }
+}
+advagg_mod_1_check();"></script>
+<![endif]-->
+
+<!--[if gt IE 9]>
+<script src="//www.gs1.org/sites/default/files/advagg_js/js__LO6gsC44uRVvUU3RDmeM3MHpRTEMOtlVbU2nMUWVFvs__MjXsja1TfudCvWi3hMh3mJdwieiSHU4gxG6YzR1Hlts__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.js#ie10+" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_1, 1);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 1);
+  }
+}
+advagg_mod_1_check();"></script>
+<![endif]-->
+
+<!--[if !IE]><!-->
+<script src="//www.gs1.org/sites/default/files/advagg_js/js__LO6gsC44uRVvUU3RDmeM3MHpRTEMOtlVbU2nMUWVFvs__MjXsja1TfudCvWi3hMh3mJdwieiSHU4gxG6YzR1Hlts__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.js" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_1, 1);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 1);
+  }
+}
+advagg_mod_1_check();"></script>
+<!--<![endif]-->
+<script src="//www.gs1.org/sites/default/files/advagg_js/js__0ZOWXgEuTBNPxfYmc1VVQpwf_U-So5i-fYxLX-c3vOQ__W5aSs-XBFvat9odnS7Cw_zPz1pxTfPDojETNwtuTJ9o__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.js" defer="defer"></script>
+<script src="//www.gs1.org/sites/default/files/advagg_js/js__kPgSgxURKnSJPf6DUd1d0M4ddrthvnbffAPvZ6UhNRU__YssdhnhoLdt1jlD7ADQ_l2c6SehQtkJ2WlTpdJXZjyg__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.js" defer="defer"></script>
+<script>function init_drupal_core_settings() {jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gsone_phoenix_toolkit","theme_token":"uliohw6VaBjw2MUkZxjEAf4i-Nb2KPjYLhIy0D1dxN8","css":{"\/\/cloud.typography.com\/6247692\/752844\/css\/fonts.css":1,"http:\/\/fonts.googleapis.com\/css?family=Source+Code+Pro:500":1,"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/gsone_phoenix_core\/\/css\/gsone_phoenix_core.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/6a06f3baed975ba4cd81a0223f71f639.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"sites\/all\/libraries\/slick\/slick\/slick.css":1,"sites\/all\/libraries\/slick\/slick\/slick-theme.css":1,"sites\/all\/modules\/features\/feature_content_carrousel\/css\/feature-content-carrousel.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/dist\/css\/bootstrap.css":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/dist\/css\/bootstrap-theme.css":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/dist\/css\/bootstrap-accessibility.css":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/docs\/assets\/css\/docs.css":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1},"js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_dollar\/jquery_dollar.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/libraries\/slick\/slick\/slick.js":1,"sites\/all\/modules\/features\/feature_content_carrousel\/js\/feature-content-carrousel.js":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/js\/matchHeight.js":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/js\/main.js":1,"sites\/all\/themes\/custom\/gsone_phoenix_toolkit\/dist\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1}},"gss":{"key":"003679066152351752921:arkpeglipbq"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\r\n  \u003Cdiv class =\u0022popup-content info container\u0022\u003E\r\n    \u003Cdiv class=\u0022content\u0022\u003E\r\n      \u003Cdiv id=\u0022popup-text\u0022\u003E\r\n        \u003Ch3\u003EWe use cookies on this page.\u003C\/h3\u003E      \u003C\/div\u003E\r\n      \u003Cdiv id=\u0022popup-buttons\u0022\u003E\r\n        \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EAccept cookies\u003C\/button\u003E\r\n        \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003EWhat are cookies?\u003C\/button\u003E\r\n      \u003C\/div\u003E\r\n    \u003C\/div\u003E\r\n  \u003C\/div\u003E\r\n\u003C\/div\u003E\r\n","popup_html_agreed":"\u003Cdiv\u003E\r\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\r\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\r\n      \u003Cp\u003ETest\u003C\/p\u003E    \u003C\/div\u003E\r\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\r\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\r\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\r\n    \u003C\/div\u003E\r\n  \u003C\/div\u003E\r\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_link_new_window":0,"popup_position":null,"popup_language":"en","domain":""},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});
+if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(false);}} if(window.jQuery && window.Drupal){init_drupal_core_settings();}</script>
+<script src="//www.gs1.org/sites/default/files/advagg_js/js__QfrurJ7ERbWtCMYpPyU6QM82kESDMmh0Z2QXI244DcI__E_Rw4j_sg2RfYhc3JRpZIP3HHf3sbd54IBiqxOeTpVE__L4TrRzQgJQmnhxsHVSWJd5LrelNW1eIYnzh8c6EfXGc.js" defer="defer"></script>
+<script>
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0017/0184.js?"+Math.floor(new Date().getTime()/3600000);
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 250 ms.
+      window.setTimeout(advagg_mod_2, 250);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.jQuery && window.Drupal && window.Drupal.settings) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 250);
+  }
+}
+advagg_mod_2_check();</script>
+</body>
+</html>

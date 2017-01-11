@@ -23,30 +23,36 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add Products"
+        android:text=" &#43; Add Products"
         android:layout_below="@+id/main_compny_image"
         android:id="@+id/main_add_product_button"
         android:onClick="addProductDetails"
         android:layout_marginTop="30dp"
-        android:background="@android:color/white"/>
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:background="@color/colorPrimary"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Scan Items"
+        android:text="&#x270d; Bill / Invoice"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
         android:layout_below="@id/main_add_product_button"
         android:id="@+id/main_scan_item_button"
         android:onClick="createInvoice"
         android:layout_marginTop="8dp"
-        android:background="@android:color/white"/>
+        android:background="@color/colorPrimary"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="View/Edit Products"
+        android:text="&#x270e; View / Edit Products"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
         android:onClick="viewProducts"
         android:layout_below="@id/main_scan_item_button"
         android:id="@+id/main_view_product_button"
         android:layout_marginTop="8dp"
-        android:background="@android:color/white"/>
+        android:background="@color/colorPrimary"/>
 
     <TextView
         android:layout_width="wrap_content"
