@@ -26,7 +26,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="MainActivity" />
         </activity>
-        <activity android:name=".ProductRowView" />
         <activity
             android:name=".ViewProduct"
             android:configChanges="orientation|screenSize"
@@ -43,7 +42,6 @@
             android:name=".CreateInvoice"
             android:configChanges="orientation|screenSize"
             android:label="@string/create_invoice_title" />
-        <activity android:name=".UpdateProductInformation" />
         <activity
             android:name=".welcome_screen"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen">

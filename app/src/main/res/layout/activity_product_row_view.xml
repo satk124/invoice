@@ -17,15 +17,25 @@
         android:padding="2dp"
         android:layout_margin="8dp"
         android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
 
-        <TextView
-        android:id="@+id/product_id"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Product Id"
-        android:layout_weight="1"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Id: "
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+            <TextView
+                android:id="@+id/product_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Product Id"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+        </LinearLayout>
+
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -40,14 +50,29 @@
                 android:layout_alignParentLeft="true"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 />
-            <TextView
-                android:id="@+id/product_price"
+            <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Product Price"
+                android:orientation="horizontal"
                 android:layout_alignParentRight="true"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                />
+                >
+                <TextView
+                    android:id="@+id/product_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Product Price"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Rs."
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+
+                    />
+
+            </LinearLayout>
+
         </RelativeLayout>
 
     </LinearLayout>

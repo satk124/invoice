@@ -78,8 +78,8 @@ public class ProductDB extends SQLiteOpenHelper {
         String selectQuery = "SELECT  _id FROM " + TABLE_PRODUCTS+ " WHERE "+
                 PRODUCT_ID+" = "+"\""+product.getProduct_id()+"\"";
         Cursor cursor = db.rawQuery(selectQuery, null);
-
         cursor.moveToFirst();
+        //System.out.println(product.toString());
         int id= cursor.getInt(0);
         Log.d("updateProduct()","before");
         db.update(TABLE_PRODUCTS, cv, "_id="+id, null);
