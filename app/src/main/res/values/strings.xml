@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Invoice</string>
+    <string name="view_product_title">View Products</string>
+    <string name="create_invoice_title">Create Bill</string>
+    <string name="add_product_details_title">Add Product Details</string>
+    <string name="search_hint">search product</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>

@@ -1,39 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="horizontal"
-    android:textAlignment="center">
 
-    <TextView
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardElevation="4dp"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardCornerRadius="5dp"
+    android:padding="5dp"
+    android:layout_margin="5dp"
+    android:foreground="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="2dp"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <TextView
         android:id="@+id/product_id"
-        android:layout_width="130dp"
-        android:layout_height="22dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Product Id"
         android:layout_weight="1"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:gravity="center_vertical"
-        android:textSize="14sp" />
-    <TextView
-        android:id="@+id/product_name"
-        android:layout_width="95dp"
-        android:layout_height="22dp"
-        android:layout_marginLeft="10dp"
-        android:text="Product Name"
-        android:gravity="center_vertical"
-        android:layout_weight="1"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textSize="14sp"
         />
-    <TextView
-        android:id="@+id/product_price"
-        android:layout_width="85dp"
-        android:layout_height="22dp"
-        android:layout_marginLeft="10dp"
-        android:text="Product Price"
-       android:layout_weight="1"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textSize="14sp"
-        android:gravity="center_vertical"
-        />z
-</LinearLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:paddingTop="2dp">
+            <TextView
+                android:id="@+id/product_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Product Name"
+                android:layout_alignParentLeft="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:id="@+id/product_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Product Price"
+                android:layout_alignParentRight="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+

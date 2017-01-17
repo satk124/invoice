@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.annotation.IntegerRes;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.util.Log;
 import android.view.View;
@@ -42,6 +43,9 @@ public class CreateInvoice extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_invoice);
+
+        setSupportActionBar((Toolbar)findViewById(R.id.toolbar_create_invoice));
+
         textView=(TextView)findViewById(R.id.text);
         textView2=(TextView)findViewById(R.id.text2);
         products=new LinkedHashMap<String,Product>();

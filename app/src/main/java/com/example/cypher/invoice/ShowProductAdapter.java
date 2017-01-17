@@ -50,9 +50,9 @@ public class ShowProductAdapter extends CursorAdapter {
         String productPrice = cursor.getString(cursor.getColumnIndexOrThrow("product_price"));
 
         // Populate fields with extracted properties
-        product_id.setText(productId);
+        product_id.setText("Id: "+productId);
         product_name.setText(productName);
-        product_price.setText(productPrice);
+        product_price.setText(productPrice+" Rs.");
     }
 }
 

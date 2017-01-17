@@ -5,6 +5,7 @@ import android.icu.text.NumberFormat;
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -25,6 +26,11 @@ public class AddProduct extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_product);
+
+        setSupportActionBar((Toolbar) findViewById(R.id.toolbar_add_product));
+        getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         barcode = (EditText) findViewById(R.id.add_product_barcode_etext);
         productName = (EditText) findViewById(R.id.add_product_adde);
         productPrice = (EditText) findViewById(R.id.add_product_price_etext);

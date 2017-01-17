@@ -40,7 +40,7 @@ public class InvoiceListViewAdapter extends ArrayAdapter<String> {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         LayoutInflater layoutInflater=context.getLayoutInflater();
-        View rowView= layoutInflater.inflate(R.layout.activity_product_row_view,null,true);
+        View rowView= layoutInflater.inflate(R.layout.create_invoice_row_view,null,true);
         TextView productName=(TextView)rowView.findViewById(R.id.product_id);
         TextView noOfItem=(TextView)rowView.findViewById(R.id.product_name);
         TextView cost=(TextView)rowView.findViewById(R.id.product_price);
